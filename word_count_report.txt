@@ -1,0 +1,8 @@
+Word Count Report
+Total Words: 7
+Top 5 Words:
+ibrokhim - 1
+kamolov - 1
+is - 1
+back - 1
+studying - 1
