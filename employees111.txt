@@ -1,0 +1,2 @@
+1234, Sardor, Manager, 600
+123, Ibrokhim, Engineer, 500
